@@ -207,3 +207,4 @@ node test-mongo.js
 ---
 
 **Once connected, your URL Shortener is ready to use! 🎉**
+- Added MongoDB setup steps
