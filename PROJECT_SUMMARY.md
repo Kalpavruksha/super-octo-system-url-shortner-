@@ -234,3 +234,4 @@ Enjoy your new URL Shortener! 🚀
 **Created by**: beshu
 **Date**: 2025-12-22
 **Tech Stack**: Node.js, Express, MongoDB Atlas, JWT, Vanilla JS
+- Updated project overview
