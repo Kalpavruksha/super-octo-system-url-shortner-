@@ -290,3 +290,4 @@ npm run dev
 **Features:** URL Shortening, Analytics, Authentication, Expiry Management
 
 🚀 **Let's get started!**
+- Clarified environment setup
