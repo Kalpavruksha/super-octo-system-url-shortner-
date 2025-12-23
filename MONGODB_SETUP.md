@@ -41,7 +41,7 @@
    
    Example:
    ```
-   MONGODB_URI=mongodb+srv://beshu:beshu@cluster0.abc123.mongodb.net/urlshortener?retryWrites=true&w=majority
+   MONGODB_URI=mongodb+srv://:@cluster0.abc123.mongodb.net/urlshortener?retryWrites=true&w=majority
    ```
 
 8. **Save the file** and restart the server
