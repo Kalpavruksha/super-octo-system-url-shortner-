@@ -216,3 +216,4 @@ exports.updateUrl = async (req, res, next) => {
 // handle redirect using short code
 // handle invalid short code
 // improve response formatting
+// add async error handling
