@@ -65,3 +65,4 @@ process.on('unhandledRejection', (err, promise) => {
 // initialize express server
 // load middleware stack
 // register api routes
+// minor refactor for readability
