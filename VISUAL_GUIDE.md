@@ -273,3 +273,4 @@
 ---
 
 **Pro Tip**: The design uses CSS custom properties (variables) for easy theming. You can change the entire color scheme by updating the `:root` variables in `style.css`!
+- Added visual usage notes
