@@ -214,3 +214,4 @@ exports.updateUrl = async (req, res, next) => {
 // handle create short url request
 // generate unique short code
 // handle redirect using short code
+// handle invalid short code
