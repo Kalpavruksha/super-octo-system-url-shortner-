@@ -62,7 +62,7 @@ PORT=3000
 NODE_ENV=development
 
 # MongoDB Atlas Configuration
-MONGODB_URI=mongodb+srv://beshu:beshu@cluster0.mongodb.net/urlshortener?retryWrites=true&w=majority
+MONGODB_URI=
 
 # JWT Configuration
 JWT_SECRET=beshu-url-shortener-secret-key-2025
@@ -239,7 +239,7 @@ url-shortner/
 
 1. Create a MongoDB Atlas account at https://www.mongodb.com/cloud/atlas
 2. Create a new cluster
-3. Create a database user (username: beshu, password: beshu)
+3. Create a database user 
 4. Whitelist your IP address (or use 0.0.0.0/0 for development)
 5. Get your connection string and update `.env`
 
