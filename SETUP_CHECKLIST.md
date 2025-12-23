@@ -192,3 +192,4 @@ You'll know everything is working when:
 ---
 
 **Once MongoDB is connected, you're 100% ready to go! 🚀**
+- Added troubleshooting notes
