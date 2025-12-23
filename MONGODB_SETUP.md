@@ -31,7 +31,7 @@
    - Click "Connect" on your cluster
    - Choose "Connect your application"
    - Copy the connection string
-   - It will look like: `mongodb+srv://beshu:<password>@cluster0.xxxxx.mongodb.net/?retryWrites=true&w=majority`
+   - It will look like: `mongodb+srv://:<password>@cluster0.xxxxx.mongodb.net/?retryWrites=true&w=majority`
 
 7. **Update .env file**:
    - Open `.env` file in the project root
