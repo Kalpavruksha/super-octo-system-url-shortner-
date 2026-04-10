@@ -1,5 +1,5 @@
 # MongoDB Atlas Setup Instructions
-
+ 
 ## ⚠️ IMPORTANT: You need to update your MongoDB Atlas connection string!
 
 ### Steps to get your MongoDB Atlas connection string:
